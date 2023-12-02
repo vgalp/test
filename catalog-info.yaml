@@ -2,8 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   annotations:
-    backstage.io/kubernetes-id: my-kubernetes-component
-  name: my-kubernetes-component
+    backstage.io/kubernetes-id: vg-componenet
+  name: vg-componenet
 spec:
   lifecycle: experimental
   owner: guests
